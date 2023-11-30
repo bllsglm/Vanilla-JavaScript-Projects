@@ -77,6 +77,10 @@ button {
   border: none;
 }
 
+button:disabled {
+  background-color: #9FA6B2;
+}
+
 button:hover{
   transform: scale(0.98);
 }

@@ -8,17 +8,26 @@ prevBtn.addEventListener('click', Prev)
 
 let i = 0 
 
+if(i === 0 ) {
+  prevBtn.setAttribute('disabled', '')
+}
 
 //NEXT BUTTON
 function Next() {
-  console.log("circles",i);
+  prevBtn.removeAttribute('disabled')
   if(i < circles.length){
-    circles[i].classList.add('active');
 
-    if(i < lines.length){
-      lines[i].classList.add('active')
+    if(i === 0 ){
+      circles[i].classList.add('active');
       i++;
-      console.log("lines",i);
+    }else{
+      lines[i - 1].classList.add('active')
+      circles[i].classList.add('active');
+      i++;
+
+      if(i === circles.length ){
+        nextBtn.setAttribute('disabled', '')
+     }
     }
   }
 }
@@ -26,16 +35,18 @@ function Next() {
 
 //PREV BUTTON
 function Prev() {
-  if(i >= 0 ) {
-    console.log(i);
-    circles[i].classList.remove('active');
-
-    if(i >= 1 ){
-      lines[i-1].classList.remove('active')
+    nextBtn.removeAttribute('disabled')
+    if(i > 1){
+      circles[i-1].classList.remove('active');
+      lines[i-2].classList.remove('active')
       i--;
-      console.log(i);
+    }else{
+      circles[i-1].classList.remove('active');
+      i--;
+      if(i === 0 ){
+        prevBtn.setAttribute('disabled', '')
+      }
     }
-  }else{
-    i = 0
-  }
 }
+
+
