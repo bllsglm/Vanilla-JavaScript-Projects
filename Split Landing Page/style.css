@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+  --right-bg-color : rgba(87,84,236,0.7);
+  --left-bg-color : rgba(43,43,43,0.8);
+  --left-btn-hover-color : rgba(87,84,236, 1);
+  --right-btn-hover-color : rgba(28, 122, 28, 1);
+  --hover-width: 70%;
+  --other-width : 30%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+h1{
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top:30%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background: #333;
+}
+
+
+.split{
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.split.left {
+  left: 0;
+  background-image: url('https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  transition: width 2s linear;
+}
+
+.split.left::before{
+  content: "";
+  position: absolute;
+  width:100%;
+  height: 100%;
+  background-color: var(--left-bg-color);
+}
+
+.split.right {
+  right: 0;
+  background-image: url('https://images.unsplash.com/photo-1629367494173-c78a56567877?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  transition: width 2s linear;
+}
+
+.split.right::before{
+  content: "";
+  position: absolute;
+  width:100%;
+  height: 100%;
+  background-color: var(--right-bg-color);
+}
+
+
+.hover-left .left {
+  width: var(--hover-width);
+}
+
+.hover-left .right {
+  width: var(--other-width);
+}
+
+
+.hover-right .right {
+  width: var(--hover-width);
+}
+
+.hover-right .left {
+  width: var(--other-width);
+}
+
+
+.btn{
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: bold;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  white-space: nowrap;
+  border: 2px solid #fff;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+
+.btn:hover{
+  box-shadow: 5px 3px 3px rgba(0, 0, 0, 0.6);
+  opacity: 0.8;
+}
+
+
+
+@media (max-width :800px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
