@@ -23,7 +23,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-color: var(--dark-color);
+  background-color:rgb(72, 73, 33);
 }
 
 .container {
