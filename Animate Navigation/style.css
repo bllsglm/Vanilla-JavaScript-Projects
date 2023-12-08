@@ -13,32 +13,37 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-color: #14A44D ;
+  background-color: #fff ;
 }
+
+
 
 nav {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  background-color: var(--primary-color);
-  border-radius: 5px;
   color: #FBFBFB;
+  
 }
 
 nav ul {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  background-color: var(--primary-color);
+  height: 50px;
+  width: 100%;
+  transition: 2s ease;
 }
 
 li {
@@ -46,6 +51,19 @@ li {
   margin: 10px 20px;
   cursor: pointer;
 }
+
+/* CLOSE */
+
+nav ul.close {
+  width: 0px;
+  opacity: 0;
+}
+
+.close li {
+  transform: rotate(180deg);
+  transition: 1s ease-in-out;
+}
+
 
 /* BUTTON */
 .lines {
@@ -56,22 +74,37 @@ li {
   width: 20px;
   height: 30px;
   background-color: var(--primary-color);
-  margin: 10px;
+  height: 50px;
+  padding: 20px;
   cursor: pointer;
+
 }
 
 .lines .top-line {
   height: 2px;
   width: 20px;
   border: 2px solid #FBFBFB; 
-  transform: rotate(45deg);
+  transform: rotate(0deg);
   transform-origin: top left;
+  transition: 1s ease;
 }
 
 .lines .bottom-line {
   height: 2px;
   width: 20px;
   border: 2px solid  #FBFBFB;
-  margin-top: 10px;transform: rotate(-45deg);
+  margin-top: 10px;transform: rotate(0deg);
   transform-origin: bottom left;
+  transition: 1s ease;
+}
+
+/* ACTİVE BUTTONS */
+.active .top-line {
+  transform: rotate(45deg);
+  transition: 1s ease;
+}
+
+.active .bottom-line {
+  transform: rotate(-45deg);
+  transition: 1s ease;
 }
