@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+  --primary-color : #3B71CA;
+  --secondary-color : #9FA6B2;
+  --success-color : #14A44D;
+  --danger-color : #DC4C64;
+  --warning-color : #E4A11B;
+  --Info-color : #54B4D3;
+  --light-color : #FBFBFB;
+  --dark-color : #332D2D;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  background-color: #14A44D ;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  color: #FBFBFB;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+
+/* BUTTON */
+.lines {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 20px;
+  height: 30px;
+  background-color: var(--primary-color);
+  margin: 10px;
+  cursor: pointer;
+}
+
+.lines .top-line {
+  height: 2px;
+  width: 20px;
+  border: 2px solid #FBFBFB; 
+  transform: rotate(45deg);
+  transform-origin: top left;
+}
+
+.lines .bottom-line {
+  height: 2px;
+  width: 20px;
+  border: 2px solid  #FBFBFB;
+  margin-top: 10px;transform: rotate(-45deg);
+  transform-origin: bottom left;
+}
