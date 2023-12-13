@@ -20,9 +20,59 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
+  color: #FBFBFB;
   height: 100vh;
-  overflow: hidden;
   margin: 0;
-  background-color: #333;
+  background-color: var(--Info-color);
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* BIG BOTTLE */
+
+.big-bottle{
+  height: 500px;
+  width: 300px;
+  border: 3px solid #fff;
+  border-radius: 0 0 20px 20px;
+  position: relative;
+}
+
+.big-bottle .remained {
+
+} 
+
+.big-bottle .filled  {
+  width: 100%;
+  height: 100%;
+  background-color: #3B71CA;
+  font-size: 3rem;
+  font-weight: bolder;
+  position: absolute;
+  /* top: 75%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+}
+
+.mini-bottles{
+  display: grid;
+  text-align: center;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: 2;
+
+}
+
+.mini-bottle{
+  height: 100px ;
+  width: 100px;
+  border: 1px solid #fff;
+  margin: 10px 10px;
+  border-radius: 0 0 20px 20px ;
 }
