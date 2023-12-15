@@ -1,0 +1,387 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 755450,
+      "original_language": "kn",
+      "original_title": "Godfather",
+      "overview": "A 2012 Kannada film",
+      "popularity": 2.532,
+      "poster_path": "/ipV6QtfFnrj80Ar2eH24gjSZHir.jpg",
+      "release_date": "2012-07-27",
+      "title": "Godfather",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 238,
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "popularity": 132.212,
+      "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "release_date": "1972-03-14",
+      "title": "The Godfather",
+      "video": false,
+      "vote_average": 8.708,
+      "vote_count": 19101
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9jzcBj3K3sOJe1yF73JEFPISIHE.jpg",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "id": 242,
+      "original_language": "en",
+      "original_title": "The Godfather Part III",
+      "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+      "popularity": 63.332,
+      "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "release_date": "1990-12-25",
+      "title": "The Godfather Part III",
+      "video": false,
+      "vote_average": 7.425,
+      "vote_count": 5727
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jdbN2hW8NOaJfDVuMIfF3c1dsQ4.jpg",
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 1154878,
+      "original_language": "ja",
+      "original_title": "JAZZ GODFATHER",
+      "overview": "",
+      "popularity": 3.367,
+      "poster_path": "/4CDjK8m5gmBkAzHzvyi6TmIo2P5.jpg",
+      "release_date": "2023-11-11",
+      "title": "Jazz Godfather",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e4S1jhTMXJRjhG1S8doUW81DH2i.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 13398,
+      "original_language": "ja",
+      "original_title": "東京ゴッドファーザーズ",
+      "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
+      "popularity": 24.864,
+      "poster_path": "/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "release_date": "2003-12-29",
+      "title": "Tokyo Godfathers",
+      "video": false,
+      "vote_average": 7.895,
+      "vote_count": 1093
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 240,
+      "original_language": "en",
+      "original_title": "The Godfather Part II",
+      "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "popularity": 95.253,
+      "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "release_date": "1974-12-20",
+      "title": "The Godfather Part II",
+      "video": false,
+      "vote_average": 8.588,
+      "vote_count": 11525
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nIiSCZvxDeCeXrOJnpbmRB8FcKH.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 79026,
+      "original_language": "en",
+      "original_title": "El padrino",
+      "overview": "In the streets of East Los Angeles, Manny is a formidable drug dealer. Impressed by his extravagant lifestyle and prowess, his young son, Kilo, yearns to follow in his footsteps. Kilo resolves to learn how to prosper in the drug world, and his new life as a dealer begins. In a world where a man wants everything, he may end up with nothing.",
+      "popularity": 16.204,
+      "poster_path": "/10J7EQ8WvMYku8lcZrLewV2Ko4I.jpg",
+      "release_date": "2004-09-27",
+      "title": "El padrino: The Latin Godfather",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fE0Xmb0GaAm1R5NkrMuPezjoGwS.jpg",
+      "genre_ids": [
+        35,
+        80,
+        10749
+      ],
+      "id": 70829,
+      "original_language": "ko",
+      "original_title": "The Last Godfather",
+      "overview": "Young-goo the son of mafia boss Don Carini, is too foolish to be part of the mafia elite. One day, Young-goo comes to his father and is trained by Tony V to be his father's successor. A few days later, Young-goo accidentally rescues Nancy, the only daughter of Don Bonfante, the boss of a rival mafia family. But Vinnie, an under-boss of the Bonfante family kidnapped her and fabricates that Young-goo has taken her. Vinnie's behavior provokes an armed conflict between the two families.",
+      "popularity": 5.368,
+      "poster_path": "/zLcKGxKn8qgrGaUZAWZY3Nvi5fr.jpg",
+      "release_date": "2010-12-29",
+      "title": "The Last Godfather",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jVBGqeD1IUXnc6cIJZleKdX6jOg.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 107641,
+      "original_language": "ja",
+      "original_title": "鬼龍院花子の生涯",
+      "overview": "Onimasa is the egocentric boss of a small yakuza clan on Shikoku Island, whose criminal duties conflict with his self-image as a chivalrous samurai. His struggles with his boss, the Shikoku Godfather, and the tumultuous life of his adopted daughter, Matsue, form the backdrop of this epic tale of justice, obedience, and bloody vengeance.",
+      "popularity": 4.788,
+      "poster_path": "/vGP9WAxhXFTtEmoemhy3ysIwLkT.jpg",
+      "release_date": "1982-06-05",
+      "title": "Onimasa: A Japanese Godfather",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nMZ2hUyw8PXT4a1Nbhzr9LX95ie.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 863931,
+      "original_language": "te",
+      "original_title": "గాడ్‌ఫాదర్‌",
+      "overview": "The sudden demise of the celebrated leader PKR leaves the ruling party in a political crisis and shakes up the family. The party has to elect a leader, and more than one player is in contention. Everyone’s intentions are blurred, and loyalties are in question. Brahma is a game changer in this squabble. Who will succeed as the leader and become the CM?",
+      "popularity": 4.88,
+      "poster_path": "/im4u5huiePz0PKFWF4Thb7Tc3db.jpg",
+      "release_date": "2022-10-05",
+      "title": "GodFather",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zmZL53JEoZG32zarRZdE9L7vGqo.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 112587,
+      "original_language": "zh",
+      "original_title": "香港小教父",
+      "overview": "Bruce Liang plays a Chinese Kung Fu movie star, who during his free time carries on a one-man crusade against drug dealers. The villains trick Liang into signing up to appear in a new martial arts movie. The plan is to kill Our Hero while the cameras are running, and make it look like an accident.",
+      "popularity": 4.051,
+      "poster_path": "/1ieXvvdaEmvtxXL8dYUKvFymYZD.jpg",
+      "release_date": "1974-06-28",
+      "title": "Little Godfather from Hong Kong",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oqslmgKZOLNVD43w2gpP8jLOTEB.jpg",
+      "genre_ids": [
+        18,
+        28
+      ],
+      "id": 138760,
+      "original_language": "de",
+      "original_title": "Zinksärge für die Goldjungen",
+      "overview": "Hamburg business man Otto Westermann is also the boss of organized crime in the city. His reign as godfather is in danger, though, as an ambitious Sicilian mafioso enters the fray. His goal is clear and simple: he wants to take over Hamburg. But Westermann isn't as easy to defeat as the Sicilian expects. And soon Hamburg is on the verge of a bloody mob war.",
+      "popularity": 3.842,
+      "poster_path": "/rcG0CQxgSQ9d07omrrTGi6iD1Vm.jpg",
+      "release_date": "1973-11-30",
+      "title": "Battle of the Godfathers",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tYjyk4Ij7CwVOn2ovcXdRYffR9k.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 364150,
+      "original_language": "en",
+      "original_title": "The Godfather Epic: 1901-1959",
+      "overview": "The multigenerational saga of the rise and fall of the Corleone crime family. Story is told in chronological order, and numerous scenes that were deleted from each film have been restored.",
+      "popularity": 17.79,
+      "poster_path": "/xvT9RyO9UdNSc1NRhXnhTujlQWK.jpg",
+      "release_date": "1992-10-17",
+      "title": "The Godfather Epic: 1901-1959",
+      "video": true,
+      "vote_average": 8.9,
+      "vote_count": 146
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 73725,
+      "original_language": "en",
+      "original_title": "The Godfather of Green Bay",
+      "overview": "Joe Keegan is the 'Rocky' of stand-up comedy. A fifteen-year comedy veteran who was pegged for stardom early on in his career but has blown every major audition he has ever had in legendary fashion. Fresh off a recent fiasco with a heckler that included a broken nose, Joe's friend Kenny tells him he can get them an audition for 'The Tonight Show' and that it's 'a can't miss.' The one catch is that it's at a roadside bar in tiny Pine Lake, Wisconsin, hometown of Tonight Show Talent scout, Harvey Skorik who never misses 'Rocktoberfest.' Having doubts but needing a break from L.A., Joe reluctantly agrees to go. Arriving in Wisconsin, Joe bombs his first night on stage when local emcee Dug sabotages him. Joe cannot get a break until he encounters his former high school English teacher, the beautiful Molly Mahoney who is also at a crossroads in her life.",
+      "popularity": 15.053,
+      "poster_path": "/83uAEy4jLR1QpkUmsx3YHTpP1vB.jpg",
+      "release_date": "2005-04-20",
+      "title": "The Godfather of Green Bay",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        10402
+      ],
+      "id": 445198,
+      "original_language": "en",
+      "original_title": "Godfathers and Sons",
+      "overview": "Director Marc Levin travels to Chicago with hip-hop legend Chuck D (from Public Enemy) and Marshall Chess (son of Leonard Chess and heir to the legacy of Chess Records) to explore the heyday of the Chicago blues and how they come together to produce an album that seeks to bring veteran blues players along with contemporary hip hop musicians. Along with never before seen footage from Howlin 'Wolf, Muddy Waters and Paul Butterfield Blues Band, they are original performances by Koko Taylor, Otis Rush, Magic Slim, Ike Turner and Sam Lay.",
+      "popularity": 3.842,
+      "poster_path": "/8unJ3T69erkkZsz5aj8Ci89TAdM.jpg",
+      "release_date": "2003-10-02",
+      "title": "Godfathers and Sons",
+      "video": true,
+      "vote_average": 7.5,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XvGw14wPnPCJZbfuLjVO5TMqkx.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 29244,
+      "original_language": "en",
+      "original_title": "3 Godfathers",
+      "overview": "Three outlaws on the run discover a dying woman and her baby. They swear to bring the infant to safety across the desert, even at the risk of their own lives.",
+      "popularity": 18.239,
+      "poster_path": "/dsVrYIpK2Rcgsr5QrfjBQWee5JE.jpg",
+      "release_date": "1948-12-31",
+      "title": "3 Godfathers",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tXX0mG4yHl3Z0KqPfAxjPOBolGV.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 134474,
+      "original_language": "ml",
+      "original_title": "ഗോഡ്ഫാദർ",
+      "overview": "A retelling of William Shakespeare's \"Romeo and Juliet\", the film revolves around the rivalry between two families, the Anjooran and Anappara houses, and the consequences faced when two members of the families fall in love.",
+      "popularity": 5.419,
+      "poster_path": "/xnsLPhy3IkgDFDZQjLofOgPDa5d.jpg",
+      "release_date": "1991-09-15",
+      "title": "Godfather",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gkfjclGZef5PS8Xm5c7XfZPCxdW.jpg",
+      "genre_ids": [
+        99,
+        36
+      ],
+      "id": 598065,
+      "original_language": "en",
+      "original_title": "Our Godfather",
+      "overview": "The story of how Sicilian Mafia boss Tommaso Buscetta (1928-2000), the Godfather of Two Worlds, revealed, starting in 1984, the deepest secrets of the organization, thus helping to convict the hundreds of mafiosi who were tried in the trial held in Palermo between 1986 and 1987.",
+      "popularity": 18.225,
+      "poster_path": "/dSI9Gy5xqmObmKoR9D80Bl0c1GC.jpg",
+      "release_date": "2019-04-28",
+      "title": "Our Godfather",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        35
+      ],
+      "id": 260889,
+      "original_language": "it",
+      "original_title": "L'altra faccia del padrino",
+      "overview": "The Godfather Don Vito Monreale knows, by chance, the Italian-American singer Nick Bouillon. Since the two are alike, Don Vito decided to exploit this similarity in his favour.",
+      "popularity": 4.439,
+      "poster_path": "/yFI6AyrblDaTkJu3iYpZhdSp8wx.jpg",
+      "release_date": "1973-05-03",
+      "title": "The Funny Face of the Godfather",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 90003,
+      "original_language": "cn",
+      "original_title": "烈火情仇",
+      "overview": "Lung comes from China to Hong Kong in search of a new life and fortune. He is employed as a security officer by Lee at a night club that he runs. When Lee’s partner dies, his business is endangered by his partner’s son, Soufu. As retribution, Lee’s daughter May, hurts Soufu. Soufu’s anger gets the best of him, and he murders Lee. May must now make the next move in this deadly game of chess, and asks Lung to help her avenge Lee’s death. Lung hesitantly agrees, and the hunt is on to give Soufu exactly what he deserves!",
+      "popularity": 3.781,
+      "poster_path": "/eojrTY5XmMzu0KnstdXHYIJr1lr.jpg",
+      "release_date": "1991-10-31",
+      "title": "Godfather's Daughter Mafia Blues",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 116
+}

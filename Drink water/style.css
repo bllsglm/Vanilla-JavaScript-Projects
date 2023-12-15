@@ -125,7 +125,7 @@ body {
   border-radius: 0 0 20px 20px ;
   transition: transform 1s linear;
   border-top: none;
-
+  cursor: pointer;
 }
 
 .mini-bottle:hover{
