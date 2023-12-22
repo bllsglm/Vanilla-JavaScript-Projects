@@ -47,7 +47,5 @@ document.addEventListener('DOMContentLoaded', function() {
     dates.innerHTML = `${date.slice(0,10)}`;
 
   },1000)
-
 })
-
 

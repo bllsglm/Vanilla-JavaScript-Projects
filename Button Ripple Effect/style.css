@@ -1,22 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
-:root {
-  --primary-color : #3B71CA;
-  --secondary-color : #9FA6B2;
-  --success-color : #14A44D;
-  --danger-color : #DC4C64;
-  --warning-color : #E4A11B;
-  --Info-color : #54B4D3;
-  --light-color : #FBFBFB;
-  --dark-color : #332D2D;
-}
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,4 +15,44 @@ body {
   overflow: hidden;
   margin: 0;
   background-color: #333;
+}
+
+
+button {
+  position: relative;
+  width: 120px;
+  height: 50px;
+  background-color: #DC4C64;
+  border-radius: 5px;
+  font-weight: 600;
+  color: white;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  overflow: hidden;
+  padding: 20px 30px;
+  margin: 10px 0;
+  white-space: nowrap;
+}
+
+button:focus {
+  outline: none;
+}
+
+.circle {
+  position: absolute;
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  animation: scale 0.5s ease-out;
+}
+
+
+@keyframes scale {
+  to {
+    transform: translate(-50%, -50%) scale(3);
+    opacity: 0;
+  }
 }
